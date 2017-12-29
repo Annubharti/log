@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+    margin: auto;
+    text-align: center;
+}
+.annumom{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    display: flex;
+    justify-content: center;`
+}
+.papa{
+    margin-top: 200px;
+}
